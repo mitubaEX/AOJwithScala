@@ -1,0 +1,2 @@
+# AOJwithScala
+ScalaでAOJをやってみる
